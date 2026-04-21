@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suraj Patil</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=QA+Engineer;Automation+Tester;Playwright+%7C+Cypress;API+Testing+Enthusiast;Building+Quality+Software" />
+</p>
+
 <h3 align="center">QA Engineer | Automation & Manual Testing | Playwright Specialist</h3>
 
 <p align="center">
@@ -16,7 +21,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m a **Mid-Level QA Engineer** with hands-on experience in **Automation & Manual Testing**.
+I’m a **Mid-Level QA Engineer** with experience in **Automation & Manual Testing**.
 
 🔍 I specialize in building scalable **test automation frameworks** and ensuring high-quality software delivery.  
 🚀 Passionate about breaking systems to make them stronger.
@@ -25,7 +30,7 @@ I’m a **Mid-Level QA Engineer** with hands-on experience in **Automation & Man
 - 💻 Languages: JavaScript, TypeScript  
 - 🔗 API Testing: Postman  
 - 🧪 Manual Testing | Regression | Exploratory Testing  
-- 🌱 Currently improving advanced automation frameworks  
+- 🌱 Continuously learning advanced automation frameworks  
 
 ---
 
@@ -53,6 +58,16 @@ I’m a **Mid-Level QA Engineer** with hands-on experience in **Automation & Man
 ✔️ Automated **E2E workflows** (Login, Cart, Checkout, Payments)  
 ✔️ Built **Playwright framework using Page Object Model (POM)**  
 ✔️ Performed **cross-browser & mobile testing**  
+
+---
+
+## 🎓 Education  
+
+🎓 **Master’s Degree in Computer Science**  
+Dr Babasaheb Ambedkar Marathwada University, Aurangabad
+
+🎓 **Bachelor’s Degree in Computer Application**  
+Dr Babasaheb Ambedkar Marathwada University, Aurangabad
 
 ---
 
@@ -84,7 +99,7 @@ I’m a **Mid-Level QA Engineer** with hands-on experience in **Automation & Man
 
 ## 📫 Connect With Me  
 
-📧 surajpatilsp9991@gmail.com
+📧 your-surajpatilsp9991@gmail.com  
 🔗 https://www.linkedin.com/in/suraj-patil-qa/
 💻 https://github.com/surajpatisp9991
 
