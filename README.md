@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/suraj-patil-qa/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:surajpatilsp@gmail.com">
+  <a href="mailto:surajpatilsp9991@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://github.com/surajpatisp9991">
