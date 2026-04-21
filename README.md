@@ -7,13 +7,13 @@
 <h3 align="center">QA Engineer | Automation & Manual Testing | Playwright Specialist</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/suraj-patil-qa/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:surajpatilsp@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://github.com/your-github">
+  <a href="https://github.com/surajpatisp9991">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
   </a>
 </p>
