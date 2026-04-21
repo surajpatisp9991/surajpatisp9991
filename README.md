@@ -34,7 +34,7 @@ I’m a **Mid-Level QA Engineer** with experience in **Automation & Manual Testi
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,github" />
@@ -43,10 +43,19 @@ I’m a **Mid-Level QA Engineer** with experience in **Automation & Manual Testi
 <p>
 <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white">
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+</p>
+
+### ⚙️ Concepts & Practices  
+<p>
+<img src="https://img.shields.io/badge/Page_Object_Model-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Agile_Scrum-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/SDLC-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/STLC-purple?style=for-the-badge">
 </p>
 
 ---
